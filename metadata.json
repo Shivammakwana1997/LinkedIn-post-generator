@@ -1,0 +1,8 @@
+{
+  "name": "EventPulse - AI Social Campaign & Post Studio",
+  "description": "Empower event attendees and organizers to craft high-engagement LinkedIn posts, amplify conference reach, and track real-time social velocity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
